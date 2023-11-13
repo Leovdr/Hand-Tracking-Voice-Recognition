@@ -62,6 +62,7 @@ PyQt5-sip==12.11.1
 pyserial==3.5
 PySocks==1.7.1
 pystyle==2.9
+pytesseract==0.3.10
 python-dateutil==2.8.2
 python-dotenv==0.21.0
 pyttsx3==2.90
